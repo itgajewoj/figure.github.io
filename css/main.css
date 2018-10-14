@@ -1,0 +1,118 @@
+body {
+	margin: 0;
+	background: #e1ead8;
+}
+
+div {
+    overflow: hidden; 
+}
+
+.box1 {
+	margin-top:150px;
+	margin-left: 100px;
+}
+
+.div1 {
+	background: red;
+	height: 200px;
+	width: 800px;
+}
+
+.div2 {
+	background: green;
+	height: 200px;
+	width: 800px;
+}
+
+
+.div3 {
+	background: blue ;
+	height: 200px;
+	width: 800px;
+}
+
+.box2 {
+	margin-top: 50px;
+	margin-left: 100px; 
+}
+
+.div4 {
+	background: red ;
+	height: 200px;
+	width: 265px;
+	float: left;
+}
+
+
+.div5 {
+	background: green ;
+	height: 200px;
+	width: 265px;
+	float: left;
+}
+
+
+.div6 {
+	background: blue ;
+	height: 200px;
+	width: 265px;
+	float: left;
+}
+
+.div7 {
+	background: yellow ;
+	height: 200px;
+	width: 795px;
+	
+}
+
+.div8 {
+	height: 200px;
+    width: 397px;
+    background: #88917f;
+    float: left;
+}
+
+.div9 {
+	background: #2e3725;
+	height: 200px;
+    width: 397px;
+    float: left;
+}
+
+.box3 {
+	background: #bdd876;
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-bottom: 300px;
+	padding: 25px;
+	display: inline-block;
+}
+
+.div11 {
+	background: red ;
+	height: 200px;
+	width: 265px;
+	float: left;
+}
+
+.div22 {
+	background: green ;
+	height: 200px;
+	width: 265px;
+	float: left;
+	margin-left: 55px;
+}
+
+.div33 {
+	background: blue ;
+	height: 200px;
+	width: 265px;
+	float: left;
+	margin-left: 55px;
+}
+
+p {
+	font-size: 40px;
+	margin-left: 30px;
+}
